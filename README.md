@@ -1,5 +1,7 @@
 # PixelQuest
 
+[![Project Status: WIP](https://img.shields.io/badge/Project%20Status-WIP-blue.svg)](https://github.com/NebulaTris/PixelQuest)
+
 PixelQuest is a nostalgic journey back to the golden age of arcade gaming, featuring classic games like Space Invaders, Super Mario Bros, Classic Tetris, Minesweeper, and Pac-Man. These games are recreated in C++ using the Simple and Fast Multimedia Library (SFML) to bring the retro gaming experience to modern systems.
 
 ## Games Included
